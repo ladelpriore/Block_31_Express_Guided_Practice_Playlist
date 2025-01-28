@@ -1,4 +1,4 @@
-# Guided Practice - Playlist
+# Block 31 Express, Guided Practice: Playlist
 In this guided practice, we'll use Express to create a simple API that serves information about a playlist of songs.
 
 ## Getting Started
